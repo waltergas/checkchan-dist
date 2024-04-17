@@ -7,7 +7,7 @@ services:
     environment:
       - "CKC_PASSWD=123"
       - "VDEBUG=OFF"
-      - "VNC=OFF"
+      - "VNC=ON"
       #- "WIN_WIDTH=414"
       #- "WIN_HEIGHT=896"
       #- "XVFB_WHD=500x896x16"
